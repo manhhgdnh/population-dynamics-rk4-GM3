@@ -49,8 +49,6 @@ When a unique interior coexistence equilibrium exists,
 
 $$
 N_1^*=\frac{K_1-a_{12}K_2}{1-a_{12}a_{21}},
-$$
-$$
 N_2^*=\frac{K_2-a_{21}K_1}{1-a_{12}a_{21}}.
 $$
 
