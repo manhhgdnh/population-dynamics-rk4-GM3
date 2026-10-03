@@ -48,14 +48,23 @@ $$
 When a unique interior coexistence equilibrium exists,
 
 $$
-N_1^*=\frac{K_1-a_{12}K_2}{1-a_{12}a_{21}},
-N_2^*=\frac{K_2-a_{21}K_1}{1-a_{12}a_{21}}.
+N_{1}^{*}
+=
+\frac{K_{1}-a_{12}K_{2}}
+{1-a_{12}a_{21}},
+\qquad
+N_{2}^{*}
+=
+\frac{K_{2}-a_{21}K_{1}}
+{1-a_{12}a_{21}}.
 $$
 
 With the baseline parameters of the project this gives
 
 $$
-(N_1^*,N_2^*)=(37.5,25).
+\left(N_{1}^{*},N_{2}^{*}\right)
+=
+(37.5,25).
 $$
 
 ## Numerical method: RK4
