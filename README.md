@@ -45,13 +45,17 @@ $$
 \frac{dN_2}{dt}=r_2N_2\left(1-\frac{N_2+a_{21}N_1}{K_2}\right).
 $$
 
-When a unique interior coexistence equilibrium exists,\
+When a unique interior coexistence equilibrium exists,
+
 $$
-N_{1}^{*}=\frac{K_{1}-a_{12}K_{2}}{1-a_{12}a_{21}},\qquad N_{2}^{*}=\frac{K_{2}-a_{21}K_{1}}{1-a_{12}a_{21}}.
+N_{1}^{*}=\frac{K_{1}-a_{12}K_{2}}{1-a_{12}a_{21}},\qquad N_{2}^{*}=\frac{K_{2}-a_{21}K_{1}}{1-a_{12}a_{21}}
 $$
 
-With the baseline parameters of the project this gives\
-$$\left(N_{1}^{*},N_{2}^{*}\right)=(37.5,25).$$
+With the baseline parameters of the project this gives
+
+$$
+\left(N_{1}^{*},N_{2}^{*}\right)=(37.5,25)
+$$
 
 ## Numerical method: RK4
 
