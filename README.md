@@ -54,7 +54,7 @@ $$
 With the baseline parameters of the project this gives
 
 $$
-\left(N_{1}^{*},N_{2}^{*}\right)=(37.5,25)
+\left(N_{1},N_{2}\right)=(37.5,25)
 $$
 
 ## Numerical method: RK4
