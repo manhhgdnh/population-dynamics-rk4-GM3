@@ -187,7 +187,7 @@ The original Jupyter notebook is preserved in `notebooks/original_analysis.ipynb
 
 ## Authors
 
-- Manh Hung Nguyen
-- Tan Minh Duy Ngo
+- Manh Hung NGUYEN
+- Tan Minh Duy NGO
 
 GM3 — INSA Rouen Normandie.
